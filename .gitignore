@@ -3,3 +3,6 @@ Chicago_Crimes_2012_to_2017.*
 
 # ignore metadata file
 .DS_Store
+
+# ignore checkpoint folder
+.ipynb_checkpoints/
